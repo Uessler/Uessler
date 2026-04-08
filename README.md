@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Uessler
 
-<!--
-**Uessler/Uessler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer focused on systems and automation  
+🚀 Currently working with Delphi, ROS 2 and industrial systems (MES / AGV)  
+🎓 Computer Science student  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Delphi
+- ROS 2
+- SQL
+
+---
+
+## 📌 Projects
+- 🤖 AGV System with ROS 2
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Uessler&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uessler&layout=compact&theme=dark)
+
+---
+
+## 📫 Contact
+- Email: Uessler_Klitzke@protonmail.com
+- LinkedIn: (add later)
